@@ -11,7 +11,7 @@ The purpose of this notebook is to:
 Produce Synthetic data  with differential privacy
 Ensuring method can synthesise categorical variables
 One of the method (correlated attributed mode) is based on Bayesian Analysis
-Currently being developed for use by GAD/DfE/ GDS
+Currently being developed for use by GAD/DfE
 Initial run performed on dummy dataset provided by GAD was deemed fit for purpose by GAD
 They will use the code and feed in with their findings
 The code will also be used for generating synthetic data for research and analysis for PhD students
